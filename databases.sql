@@ -64,6 +64,7 @@ INSERT INTO languages VALUES(
     "Español"
 );
 
+
 /*QUERIES*/
 
 UPDATE countries SET population = 250000 WHERE id = 1;
